@@ -21,4 +21,4 @@ This is a NodeJS command-line application. The Node version used to develop this
         $ npm start
         > PLACE 1 1 S
         > REPORT
-        > Current position of the toy robot: 1, 1, SOUTH
+        > Current position of the toy robot: 1, 1, S
